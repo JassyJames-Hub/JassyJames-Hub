@@ -1,6 +1,6 @@
 | [ai-assistant-shopper-intent](https://github.com/JassyJames-Hub/ai-assistant-shopper-intent) | [pme-org-site](https://github.com/JassyJames-Hub/pme-org-site) |
 |---|---|
-| Do AI assistants follow stated shopper intent? 1,800 brand recommendations from Claude, GPT and Gemini: data, code and a 2-page paper. | Website of Performance Marketing Engineer, an open org defining the role where performance marketing meets engineering and AI agents. |
+| Do AI assistants follow stated shopper intent? 1,800 brand recommendations from Claude, GPT and Gemini: data, code and a 2-page paper summary. | Website of Performance Marketing Engineer, an open org defining the role where performance marketing meets engineering and AI agents. |
 | `Python` | `CSS` |
 
 # Jassy James' hub
