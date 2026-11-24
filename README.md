@@ -12,7 +12,7 @@ Marketing engineering. I like the point where marketing stops being opinions and
 - **A growth system that runs on its own, with a human in the loop.** One brief in, agents produce the ads, the landing pages and the creatives. Nothing goes live or spends money until a human hits approve.
 - **Performance Marketing Engineer.** An open org for the role where performance marketing meets engineering: what the job is, the skills, a standard and a library. [performancemarketingengineer.org](https://performancemarketingengineer.org) · [pme-org-site](https://github.com/JassyJames-Hub/pme-org-site)
 - **LLM research, because I'm super curious how these things actually behave.** Latest one: do LLMs actually listen? [ai-assistant-shopper-intent](https://github.com/JassyJames-Hub/ai-assistant-shopper-intent): 1,800 answers from Claude, GPT and Gemini, checked against what the shopper asked for. Python, open data, short paper.
-- **Agents that check each other's work** before anything ships.
+- FDME / FDE
 
 ### *THE* KPI
 
